@@ -1,0 +1,8 @@
+landing page -> index.html
+Registration phase 1 -> reg1.html
+Registration phase 2 -> reg2.html
+blog -> single.html
+trainer view -> trainer.html
+admin view -> staff.html
+login page -> login.html
+logged user -> logged.html
