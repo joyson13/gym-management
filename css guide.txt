@@ -1,0 +1,1 @@
+CSS has been written with the help of Bootstrap using the super powers of Sass and compiled down to normal CSS. This process is used to avoid any unnecessary manipulations in code and tightbound the code. Every section of CSS has been made a separate file which are imported individually in each of the html files.
