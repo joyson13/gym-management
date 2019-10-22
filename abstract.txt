@@ -1,0 +1,9 @@
+The purpose of this project is to create a web app or website for a gymnasium. Now-adays
+fitness is a must and people strive for a healthy life in every way possible. Almost every
+fitness center or gym charges you for using their facilities even for a trial of a week. This project
+website provides the users with all the basic fitness information, the services and other facilities
+before taking up a membership. The website offers different views for customers, trainers and
+the admin so that all the three entities are connected through this online platform. The customers
+even get a first week free trial which provides them enough time to get comfortable with our
+gym environment. The customers have freedom to review and submit feedback to the admin in
+charge itself.
